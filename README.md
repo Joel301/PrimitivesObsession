@@ -1,7 +1,5 @@
-# PrimitivesObsession
+PrimitivesObsession
 
-Este repositório contém um exemplo de implementação abordada em um vídeo/post do Elemar Jr que mostra como podemos "fugir" dos tipos primitivos e criar estruturas mais ricas.
+This repository contains an example of implementation covered in a video / post by Elemar Jr that shows how we can "escape" primitive types and create richer structures.
 
-Fonte: [OBSESSÃO POR TIPOS PRIMITIVOS](https://www.eximiaco.tech/pt/2019/09/03/obsessao-por-tipos-primitivos/)
-
-
+Source: [OBSESSÃO POR TIPOS PRIMITIVOS](https://www.eximiaco.tech/pt/2019/09/03/obsessao-por-tipos-primitivos/)
